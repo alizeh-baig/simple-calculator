@@ -14,7 +14,7 @@ Open `index.html` in your browser to run the calculator.
 - Simple validation to prevent unsafe evaluation
 - Responsive layout suitable for mobile and desktop
 
-## Files
+## Files:
 - `index.html` — the HTML markup and structure
 - `styles.css` — styling and responsive layout
 - `script.js` — calculator logic and keyboard handling
