@@ -5,7 +5,7 @@ A small, responsive calculator built with HTML, CSS, and JavaScript. It supports
 ## Live preview
 Open `index.html` in your browser to run the calculator.
 
-## Features
+## Featuress
 - Basic arithmetic: addition, subtraction, multiplication, division
 - Decimal numbers
 - Percent handling (e.g. `50%` → `0.5`)
